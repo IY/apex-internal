@@ -1,10 +1,16 @@
-Simple Apex Legends esp source
+features
+esp:
+- box
+- chams
 
+how to use
+1. Enable discord overlay + enable apex in game activity
+2. Disable origin overlay
+3. Inject in apex with injector that supports thread hacking
+4. Press insert in game
 
-Done with imgui and Direct11 hook with discord
+Done with imgui and Direct11 hook with discord overlay
 
 ImGui repo - https://github.com/ocornut/imgui
 
 DirectX hook repo - https://github.com/GayPig/DirectX11-hook-with-discord
-
-credits: ocornut for imgui, TsudaKageyu for minhook, JustasMasiulis for xorstr and lazyimporter, and unknowncheats for epic thread https://www.unknowncheats.me/forum/apex-legends/319804-apex-legends-coding-reversing.html 
